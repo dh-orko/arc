@@ -13,7 +13,7 @@ require (
 	github.com/google/uuid v1.4.0
 	github.com/gorilla/mux v1.8.1
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
-	github.com/gruntwork-io/terratest v0.41.24
+	github.com/gruntwork-io/terratest v0.46.8
 	github.com/hashicorp/go-retryablehttp v0.7.5
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/onsi/ginkgo v1.16.5
@@ -30,9 +30,9 @@ require (
 	golang.org/x/sync v0.5.0
 	gomodules.xyz/jsonpatch/v2 v2.4.0
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.28.3
-	k8s.io/apimachinery v0.28.3
-	k8s.io/client-go v0.28.3
+	k8s.io/api v0.28.4
+	k8s.io/apimachinery v0.28.4
+	k8s.io/client-go v0.28.4
 	sigs.k8s.io/controller-runtime v0.16.3
 	sigs.k8s.io/yaml v1.4.0
 )
